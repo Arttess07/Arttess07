@@ -1,4 +1,4 @@
-## Acerca de mi:
+## Acerca de mi 🐮:
 Apasionado por la mehora constante y el crecimiento profesional, basado en la investigación, el análisis numérico y métodos estadisticos.
 
 · 👨‍🎓 Actualmente estoy cursando un Bootcamp en Data Science en TripleTen.
