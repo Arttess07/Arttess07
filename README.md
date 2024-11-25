@@ -7,7 +7,7 @@ Apasionado por la mehora constante y el crecimiento profesional, basado en la in
 
 · 🔥 Me motiva que me presenten con nuevos retos y me asignen creación de estrategias comerciales.
 
-· 📑 Conoce más sobre mi expericnia laboral: 📁
+· 📑 Conoce más sobre mi expericnia laboral: [📁](https://www.linkedin.com/in/arturo-tessmann-acosta-563528129/)
 
 · 📧 arttess07@yahoo.com.mx
 
