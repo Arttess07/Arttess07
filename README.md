@@ -1,16 +1,14 @@
-## Hi there 👋
+## Acerca de mi:
+Apasionado por la mehora constante y el crecimiento profesional, basado en la investigación, el análisis numérico y métodos estadisticos.
 
-<!--
-**Arttess07/Arttess07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+· 👨‍🎓 Actualmente estoy cursando un Bootcamp en Data Science en TripleTen.
 
-Here are some ideas to get you started:
+· 🙋‍♂️ Me encanta participar en dinámicas en equipo y trabajar en dar soluciones a un problema analizandolo por diferentes ángulos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+· 🔥 Me motiva que me presenten con nuevos retos y me asignen creación de estrategias comerciales.
+
+· 📑 Conoce más sobre mi expericnia laboral: 📁
+
+· 📧 arttess07@yahoo.com.mx
+
+Análisis Estadístico | Análisis Exploratorio | Gestión Exitosa de Equipos | Python | SQL | Innovación | Teoría de Probabilidad | Desarrollo de Negocios | JSON | API | HTML | Métricas de Negocio | Machine Learning
