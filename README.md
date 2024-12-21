@@ -1,11 +1,12 @@
 ## Acerca de mi 🐮:
-Apasionado por la mehora constante y el crecimiento profesional, basado en la investigación, el análisis numérico y métodos estadisticos.
+Apasionado por la mejora continua y el crecimiento profesional. 
+Basado en la investigación, el análisis numérico y métodos estadisticos.
 
-· 👨‍🎓 Actualmente estoy cursando un Bootcamp en Data Science en TripleTen.
+· 👨‍🎓 Actualmente estoy cursando un Bootcamp en Data Science en TripleTen. (Fecha de finalización enero 2025)
 
-· 🙋‍♂️ Me encanta participar en dinámicas en equipo y trabajar en dar soluciones a un problema analizandolo por diferentes ángulos.
+· 🙋‍♂️ Me encanta participar en dinámicas en equipo y trabajar en dar soluciones analizando los problemas por diferentes ángulos.
 
-· 🔥 Me motiva que me presenten con nuevos retos y me asignen creación de estrategias comerciales.
+· 🔥 Me motiva que me presenten con nuevos retos y la creación de estrategias comerciales.
 
 · 📑 Conoce más sobre mi expericnia laboral: [📁](https://www.linkedin.com/in/arturo-tessmann-acosta-563528129/)
 
