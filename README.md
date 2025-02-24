@@ -8,7 +8,7 @@ Basado en la investigación, Data Science, análisis BigData  y métodos estadí
 
 · 🔥 Me motiva el concimiento continuo, refirnar mis habilidades y el uso de herramientas generativas para la solución de problemáticas contemporáneas.
 
-· 👨‍💻 Actualmente estoy cursando las siguientes certificaciones: Microsoft Generative AI para Data Analisys con Microsoft, TensorFlow con DeepLearning.ai y Oracle SQL Proficency en LearnQuest.
+· 👨‍💻 Actualmente estoy cursando las siguientes certificaciones: Cursos de preparación para certificación PL300 con Microsoft, TensorFlow Modelos personalizados con DeepLearning.ai y Oracle SQL Proficency en LearnQuest.
 
 · 📑 Conoce más sobre mi expericnia laboral: [📁](https://www.linkedin.com/in/arturo-tessmann-acosta-563528129/)
 
