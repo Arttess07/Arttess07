@@ -15,3 +15,5 @@ Basado en la investigación, Data Science, análisis BigData  y métodos estadí
 · 📧 arttess07@yahoo.com.mx
 
 Análisis Estadístico | Análisis Exploratorio | Gestión Exitosa de Equipos | Python | SQL | Innovación | Teoría de Probabilidad | Desarrollo de Negocios | Métricas de Negocio | Machine Learning | Visión Artificial | Oracle | NLP |
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
