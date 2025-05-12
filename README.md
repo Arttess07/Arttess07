@@ -14,7 +14,7 @@ Basado en la investigación, Data Science, análisis BigData  y métodos estadí
 
 · 📧 arttess07@yahoo.com.mx
 
-· GitPage: https://arttess07.github.io/
+· 🤵 GitPage: https://arttess07.github.io/
 
 Científico de Datos | Análisis Estadístico | Análisis de Mercados | Prevención de Fraudes | Python | SQL | Machine Learning | Tableau | PowerBI | Oracle | LPN | Visión Artificial |
 
