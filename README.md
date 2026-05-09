@@ -8,7 +8,7 @@ Basado en la investigación, Data Science, análisis BigData  y métodos estadí
 
 · 🔥 Me motiva el concimiento continuo, refirnar mis habilidades y el uso de herramientas generativas para la solución de problemáticas contemporáneas.
 
-· 👨‍💻 Actualmente estoy cursando las siguientes certificaciones: Cursos de preparación para certificación PL300 con Microsoft y Data Science IBM.
+· 👨‍💻 Actualmente estoy cursando las siguientes certificaciones: Cursos de repaso de estadistica y probabilidad con la UNAM y reforzar conociemiento de Data Science con IBM.
 
 · 📑 Conoce más sobre mi expericnia laboral: [📁](https://www.linkedin.com/in/arturo-tessmann-acosta-563528129/)
 
